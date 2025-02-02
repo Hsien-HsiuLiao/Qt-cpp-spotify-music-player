@@ -20,5 +20,5 @@ https://www.youtube.com/watch?v=sjApF6qnyUI
 
 https://www.youtube.com/watch?v=nscgFv4l53w - VoidRealms
 
-test text
+Qt Creator -> Tools -> Git -> Local repository -> Commit...
 
